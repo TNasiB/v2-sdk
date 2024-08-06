@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@atleta-chain/sdk-core@^4.2.21":
-  version "4.2.21"
-  resolved "https://registry.yarnpkg.com/@atleta-chain/sdk-core/-/sdk-core-4.2.21.tgz#a4d1ba5624b5a289f7eae160401afa3fdbd0fc87"
-  integrity sha512-9pje+kHf8m9ABtp36fJXU11a8q0aAUryRtRHZ7jBQDct9obBu53rQXewseuTsBgZI7mDIP+LZRUC1Fd6TuBcEA==
+"@atleta-chain/sdk-core@^4.2.22":
+  version "4.2.22"
+  resolved "https://registry.yarnpkg.com/@atleta-chain/sdk-core/-/sdk-core-4.2.22.tgz#9d98d7a541436bcdcd9d39b9e346dff413c90f74"
+  integrity sha512-8K7XU0bu3uARxNwBF8nUKS7XbI9guiKMmN+iCYzoU34Zgrlxb5LW4UCxGocvJZDYwBABBEFW/yt4XAXMc3BneA==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
